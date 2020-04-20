@@ -237,7 +237,7 @@
     "options_theme_select_title": "Color theme for the Feedbro user interface",
     "options_locale_body": "言語",
     "options_action_import_locale_body": "言語のインポート",
-    "options_locale_url": "Feedbro 言語のURL アドレス (JSON ファイル)",
+    "options_locale_url": "言語のURL (JSON ファイル)",
     "options_action_locale_failed": "言語のインポートに失敗しました! エラー: {1}",
     "options_action_locale_success": "言語のインポートに成功しました!",
     "options_action_update_locale_body": "言語を更新",
