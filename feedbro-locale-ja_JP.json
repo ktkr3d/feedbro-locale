@@ -210,7 +210,7 @@
     "navigator_action_reload": "Started scanning all feeds for new articles. This can take a long time. Normally you should not need to do this at all. Please wait...",
     "navigator_ctxmenu_markread": "すべて既読にする",
     "navigator_ctxmenu_rename": "名前の変更",
-    "navigator_ctxmenu_sortfeeds": "Sort Feeds in Folder",
+    "navigator_ctxmenu_sortfeeds": "フォルダ内を並び替え",
     "navigator_ctxmenu_delete": "削除",
     "navigator_ctxmenu_updatefeed": "フィードを更新",
     "navigator_ctxmenu_properties": "プロパティ",
